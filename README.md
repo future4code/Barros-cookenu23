@@ -10,7 +10,7 @@
 > 5.Knex.js <br>
 
 ### Documentação:
-> _Em breve..._
+> [https://documenter.getpostman.com/view/22395172/2s93JrvjHu](url)
 
 ### Endpoints:
 > 1.Cadastrar usuário; <br>
