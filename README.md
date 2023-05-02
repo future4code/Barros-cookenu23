@@ -1,3 +1,4 @@
+=======
 ### COOKENU
 > Projeto da Labenu focado em API REST, buscando simular um app ou plataforma de compartilhamento de receitas. 
 > Deve se comportar como um Back-End simples de uma aplicação desse tipo.
